@@ -1,1 +1,1 @@
-# image-gallery (REACT):react:
+# image-gallery (REACT)
