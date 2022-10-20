@@ -21,7 +21,7 @@ The project is a web exhibition that contains the names of photographers and the
 ### Project Skeleton
 
 ```
-language-card (folder)
+images-gallery (folder)
        public(folder)
            |----index.html 
        src (folder)
