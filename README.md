@@ -39,7 +39,7 @@ language-card (folder)
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/images-gallery/"><img src=gallery.gif" alt="screenshot" width="100%"></a>
+<a href="https://sezginakgul.github.io/images-gallery/"><img src="gallery.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
