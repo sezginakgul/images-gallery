@@ -1,4 +1,4 @@
-# image-gallery
+# images-gallery
 
 ## Table of contents
 
